@@ -7,7 +7,7 @@ module.exports = {
 
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://localhost/practiceangularfullstack-dev'
+    uri: 'mongodb://localhost/hermotameals-dev'
   },
 
   // Seed database on startup

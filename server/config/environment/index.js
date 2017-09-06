@@ -33,7 +33,7 @@ var all = {
 
   // Secret for session, you will want to change this and make it an environment variable
   secrets: {
-    session: 'practice-angular-fullstack-secret'
+    session: 'hermota-meals-secret'
   },
 
   // MongoDB connection options
